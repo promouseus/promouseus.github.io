@@ -1,2 +1,5 @@
-# Remove Jetbrains Webstorm project info
-/.idea
+# Don't add local Mac directory cache files
+**/.DS_Store
+
+# Don't add local xcode cache files
+**/xcuserdata
